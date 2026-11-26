@@ -1,0 +1,1 @@
+const supinfoModule= [{nom : "1WEBD", professeur : "Mme Martin", }]
